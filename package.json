@@ -1,0 +1,15 @@
+{
+  "name": "test_practice",
+  "version": "1.0.0",
+  "description": "I wrote a few practical tests for JavaScript functions using the Jest library.",
+  "main": "String.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
