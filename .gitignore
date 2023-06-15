@@ -1,5 +1,2 @@
 # .gitignore
 node_modules/
-
-# coverage
-coverage/
